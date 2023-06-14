@@ -1,0 +1,69 @@
+/*-- Fundo dos headers --*/
+#topbar-u1{
+    background: var(--uniasselvi-yellow);
+}
+
+#topbar-u1 .top-antes{
+    background: var(--uniasselvi-yellow);
+}
+
+#topbar-u1 .top-depois{
+    background: var(--uniasselvi-yellow);
+}
+.bg1 {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.25)), url(../img/uni0.jpg) no-repeat center 20%;
+    background-size: cover;
+}
+
+.bg2 {
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.1)), url(../img/uni1.jpg) no-repeat center 20%;
+    background-size: cover;
+    margin-bottom: -250px;
+}
+
+.bg3 {
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.1)), url(../img/uni2.jpg) no-repeat center 50%;
+    background-size: cover;
+    margin-bottom: -250px;
+}
+
+.bg4 {
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.1)), url(../img/uni3.jpg) no-repeat center bottom;
+    background-size: cover;
+    margin-bottom: -250px;
+}
+
+/*-- Fundo das seções --*/
+.content-wide.bg-img-1 {
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.9)), url(../img/trip1.jpg) center center;
+    background-size: cover;
+    color: white;
+}
+
+.content-wide.bg-img-2 {
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.9)), url(../img/trip2.jpg) center center;
+    background-size: cover;
+    color: white;
+}
+
+.atendimento{
+    width: 6em;
+}
+
+.content-text-atendimento{
+    border: 2px inset var(--uniasselvi-a3);
+    background: var(--uniasselvi-yellow);
+    padding: 24px;
+    border-radius: 12px;
+}
+
+
+.content-wide.bg-img-3 {
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.9)), url(../img/trip3.jpg) center center;
+    background-size: cover;
+    color: white;
+}
+
+.link-atendimento {
+    text-decoration: underline;
+}

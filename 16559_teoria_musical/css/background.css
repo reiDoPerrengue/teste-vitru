@@ -1,6 +1,7 @@
 /*-- Fundo dos headers --*/
 #topbar-u1{
     background: var(--uniasselvi-yellow);
+    color: black;
 }
 
 #topbar-u1 .top-antes{
